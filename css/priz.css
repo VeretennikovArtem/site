@@ -1,0 +1,87 @@
+body{ 
+	background-color: #043a52;
+	overflow-x: hidden;
+	
+}
+
+
+
+
+
+
+
+.tab0{
+	
+	margin:auto;
+	width: 100%;
+	max-width: 1400px;
+	border-radius: 25px;
+	border: solid yellow;
+	border-radius: 10px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.tab{
+	color: white;
+	margin:auto;
+	
+	
+	width: 100%;
+	max-width: 1400px;
+	
+	background-color: #074969;
+	border:solid yellow;
+	height: 400px;
+}
+.td{
+	width: 55%;
+	padding-left: 25px;
+}
+.td2{
+	width: 100%;
+	text-align: center;
+}
+.td3{
+	padding-left: 25px;
+	width: 55%;
+	height: 100px; 
+} 
+.td4{
+	text-align: center;
+	height: 100px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

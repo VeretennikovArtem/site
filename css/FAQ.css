@@ -1,0 +1,164 @@
+body{ 
+	background-color: #043a52;
+	overflow-x: hidden;
+	
+}
+#col{
+	margin-bottom: 50px;
+}
+
+
+.row1{
+	padding: 70px 0;
+	
+	height: 200px;
+}
+.FAQ{
+	color: yellow;
+	text-align: center;
+	font-size: 30px;
+}
+.questionA{
+	transition: all 1s;
+    cursor:pointer;
+	padding: 20px 0;
+	font-size: 20px;
+	margin-top: 25px;
+	height: 70px;
+	text-align: center;
+	color: white;
+	background-color: #043a52;
+	border:solid #00DAF7;
+	border-radius: 5px;
+}
+
+.questionB{
+	position: relative;
+   	transition: all 1s;
+    cursor:pointer;
+	padding: 20px 0;
+	font-size: 20px;
+	margin-top: 25px;
+	height: 70px;
+	text-align: center;
+	color: white;
+	background-color: #043a52;
+	border:solid #00DAF7;
+	border-radius: 5px;
+	z-index: 2;
+}
+
+.questionC{
+	position: relative;
+    	transition: all 1s;
+    cursor:pointer;
+	padding: 20px 0;
+	font-size: 20px;
+	margin-top: 25px;
+	height: 70px;
+	text-align: center;
+	color: white;
+	background-color: #043a52;
+	border:solid #00DAF7;
+	border-radius: 5px;
+	z-index: 2;
+}
+
+.questionD{
+	position: relative;
+ 	transition: all 1s;
+    cursor:pointer;
+	padding: 20px 0;
+	font-size: 20px;
+	margin-top: 25px;
+	height: 70px;
+	text-align: center;
+	color: white;
+	background-color: #043a52;
+	border:solid #00DAF7;
+	border-radius: 5px;
+	z-index: 2;
+	
+
+}
+
+.questionE{
+	position: relative;
+ 	transition: all 1s;
+    cursor:pointer;
+	padding: 20px 0;
+	font-size: 20px;
+	margin-top: 25px;
+	height: 70px;
+	text-align: center;
+	color: white;
+	background-color: #043a52;
+	border:solid #00DAF7;
+	border-radius: 5px;
+	z-index: 10;
+	z-index: 2;
+}
+
+.opas{
+	position: absolute;
+	opacity: 0;
+	z-index: 0;
+}
+.opas1{
+	position: absolute;
+	opacity: 0;
+	z-index: 0;
+}
+.opas2{
+	position: absolute;
+	opacity: 0;
+	z-index: 0;
+}
+.opas3{
+	position: absolute;
+	opacity: 0;
+	z-index: 0;
+}
+.opas4{
+	position: absolute;
+	opacity: 0;
+	z-index: 0;
+}
+@media (max-width: 1000px) {
+div.opas.act{
+	
+	font-size: 9px;
+	transition:  all 1.2s;
+
+}
+	
+}
+.act{
+	
+	transition:  all 3s;
+	opacity: 1;
+}
+	
+
+
+
+.activ{
+	opacity: 1;
+	  cursor:pointer;
+	padding: 20px 0;
+	
+	margin-top: 25px;
+	height: 170px;
+	text-align: center;
+	color: white;
+	background-color: #043a52;
+	border:solid #00DAF7;
+	border-radius: 5px;
+    transition: all 1s;
+    
+
+
+
+
+
+

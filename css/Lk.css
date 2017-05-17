@@ -1,0 +1,400 @@
+body{ 
+	background-color: #043a52;
+	overflow-x: hidden;
+	
+}
+
+
+.wrap{
+	background:url(bg-main.jpg) ;
+	background-size: 100%;
+	background-repeat: no-repeat;
+height: 1200px;
+
+
+}
+
+
+
+.glyphicon {
+	font-size: 20px;
+	 color:#FEF400;
+}
+
+
+
+
+.page-scroll{
+
+
+	color: white;
+	text-align: right;
+} 
+
+.enter{
+
+	color: white;
+	font-size: 20px;
+	
+	margin-top: 25px;
+ }
+
+
+
+.logo{
+	display: inline-block;
+	height: auto;
+	max-width: 200px;
+	margin-left: 40px;
+	
+	margin-top: -25px;
+}
+@media (max-width: 702px){
+
+.enter{
+	font-size: 15px;
+}
+#bs{ 
+text-align: left;
+	
+	font-size: 10px;
+	
+}
+.glyphicon {
+	padding-right: 25px; 
+	font-size: 30px;
+}
+
+
+
+.logo{
+	display: inline-block;
+	margin-top: 0px;
+   max-width: 140px;
+margin-left: 5px;
+
+}
+
+
+}
+
+
+
+
+
+
+
+
+.border:hover{
+	color: white;
+	border: 2px dotted white;
+	border-radius: 5px;
+	text-decoration:none;
+}
+
+
+
+.a0{
+	color: white;
+	border: 2px dotted white;
+	border-radius: 5px;
+	text-decoration:none;
+}
+ .a0:hover{
+ 	color: white;
+ 	text-decoration:none;
+
+ }
+
+.a{
+	
+	display: inline-block;
+margin-left: 15px;
+	color: white;
+
+	
+}
+
+.a:hover{
+	
+	color: white;
+	border: 2px dotted white;
+	border-radius: 5px;
+	text-decoration:none;
+}
+
+
+
+
+
+
+ .text{
+ 	margin-bottom: 30px;
+ 	width: 100%;
+ 	color: yellow;
+ 	font-size: 35px;
+ 	text-transform: uppercase;
+ 	margin-left: 40px;
+ 	margin-top: 40px;
+
+
+ }
+@media (max-width: 702px){
+
+
+.text{
+	margin-left: 0;
+	font-size: 15px;
+
+
+}}
+
+
+
+.input0{
+	margin:auto;
+	max-width: 450px;
+
+
+}
+
+
+.input1{
+	width: 100%;
+
+	font-size: 25px;
+	border:solid yellow;
+	border-radius: 5px;
+	height: 70px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#captcha-wrap{
+	border:solid #870500 1px;
+	width:270px;
+	-webkit-border-radius: 10px;
+	float:left;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	background:#870500;
+	text-align:left;
+	padding:3px;
+	margin-top:3px;
+	height:100px;
+	margin-left:80px;
+}
+#captcha-wrap .captcha-box{
+	-webkit-border-radius: 7px;
+	background:#fff;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	text-align:center;
+	border:solid #fff 1px;
+}
+#captcha-wrap .text-box{
+	-webkit-border-radius: 7px;
+	background:#ffdc73;
+	-moz-border-radius: 7px;
+	width:140px;
+	height:43px;
+	float:left;
+	margin:4px;
+	border-radius: 7px;
+	text-align:center;
+	border:solid #ffdc73 1px;
+}
+ 
+#captcha-wrap .text-box input{ width:120px;}
+#captcha-wrap .text-box label{
+	 color:#000000;
+	 font-family: helvetica,sans-serif;
+	 font-size:12px;	
+	 width:150px;
+	 padding-top:3px; 
+	 padding-bottom:3px; 
+}
+#captcha-wrap .captcha-action{
+	float:right; width:117px; 
+	background:url(logos.jpg) top right no-repeat; 
+	height:44px; margin-top:3px;
+}
+#captcha-wrap  img#captcha-refresh{
+	margin-top:9px;
+	border:solid #333333 1px;
+	margin-right:6px;
+	cursor:pointer;
+}
+
+
+
+
+
+
+
+.but{
+	margin:auto;
+	max-width: 450px;
+
+}
+
+
+.button1{
+	font-size: 25px;
+	width: 100%;
+	background:linear-gradient(to top,yellow,white);
+	border:solid #FFCB06;
+	border-radius: 5px;
+	height: 70px;
+
+}
+
+
+
+.table-responsive{
+	margin-bottom: 100px;
+
+	margin-top: 150px;
+	border: solid yellow;
+	border-radius: 5px;
+
+
+}
+
+.table1{
+	font-size: 20px;
+	margin-bottom: 0px;
+	width: 100%;
+
+	border: solid yellow;
+ 
+	background-color: #043a52;
+	color:white;
+
+}
+
+.tr1{
+	text-align: center;
+ 
+	height: 220px;
+	
+ 
+}
+.tr2{
+	height: 80px;
+	text-align: center;
+}
+.td1{
+	width: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+	margin-top: 50px;
+}
+
+.vk1{
+	display: inline-block;
+	margin:5px;
+	text-align: center;
+
+	background: #456b95  ;
+	width: 62px;
+	height: 62px;
+	border:solid white;
+	border-radius: 50%;
+}
+.vk{
+	padding:15px 0;
+
+	width: 50px;
+	height: auto;
+	
+
+}
+@media (max-width: 702px){
+
+.table1{
+	font-size: 10px; 
+}
+
+.vk1{
+	display: inline-block;
+	margin:5px;
+	text-align: center;
+
+	background: #456b95  ;
+	width: 40px;
+	height: 40px;
+	border:solid white;
+	border-radius: 50%;
+}
+.vk{
+	padding:8px 0;
+
+	width: 30px;
+	height: auto;
+	
+
+}
+.a2{
+	font-size: 10px;
+	
+}
+.a3{
+	font-size: 10px;
+}
+
+}
+
+
+
+
+
+.a2{
+	display: inline-block;
+	color: white;
+}
+.a2:hover{
+	color: white;
+	
+}
+.nav{
+	padding: 26px 0 ;
+	float: right;
+}
+
+.a3{
+display: inline-block;
+	color: white;
+	margin-right: 25px;
+	margin-left: 25px;
+
+}
+.a3:hover{
+	color: white;
+	

@@ -1,0 +1,57 @@
+.text{
+	color: yellow;
+	text-align: center;
+	margin-bottom: 25px;
+	margin-top: 25px;
+
+}
+
+
+.tab0{
+	
+	margin:auto;
+	width: 100%;
+	max-width: 1400px;
+	border-radius: 25px;
+	border: solid yellow;
+	border-radius: 10px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.tab{
+	color: white;
+	margin:auto;
+	
+	
+	width: 100%;
+	max-width: 1400px;
+	
+	background-color: #074969;
+	border:solid yellow;
+	height: 400px;
+}
+.td{
+	width: 25%;
+	text-align: center;
+	
+}
+
+#button{
+	margin: 25px auto;
+	text-align: center;
+}
+.button0{
+
+	width: 100%;
+	
+background:linear-gradient(to bottom, white, yellow);
+
+	border:solid yellow;
+	border-radius: 10px;
+	 max-width: 500px;
+	 min-height: 50px;
+font-size: 20px;
+
+
+}

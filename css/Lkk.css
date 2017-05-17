@@ -1,0 +1,144 @@
+
+
+
+
+
+
+
+
+
+ .text{
+ 	margin-bottom: 30px;
+ 	width: 100%;
+ 	color: yellow;
+ 	font-size: 35px;
+ 	text-transform: uppercase;
+ 	margin-left: 40px;
+ 	margin-top: 40px;
+
+
+ }
+@media (max-width: 702px){
+
+
+.text{
+	margin-left: 0;
+	font-size: 15px;
+
+
+}}
+
+
+
+.input0{
+	margin:auto;
+	max-width: 450px;
+
+
+}
+
+
+.input1{
+	margin-top: 10px;
+	width: 100%;
+
+	font-size: 25px;
+	border:solid yellow;
+	border-radius: 5px;
+	height: 70px;
+
+}
+
+
+
+
+
+
+
+
+.recapcha{
+	margin-top: 10px;
+}
+
+
+
+.g-recaptcha{
+	
+
+margin:auto;
+width: 300px;
+	
+}
+
+
+
+.but{
+
+	margin:auto;
+	max-width: 450px;
+
+}
+
+
+.button1{
+	margin-top: 10px;
+	font-size: 25px;
+	width: 100%;
+	background:linear-gradient(to top,yellow,white);
+	border:solid #FFCB06;
+	border-radius: 5px;
+	height: 70px;
+
+}
+
+
+
+.table-responsive{
+	margin-bottom: 100px;
+
+	margin-top: 150px;
+	border: solid yellow;
+	border-radius: 5px;
+
+
+}
+
+.table1{
+	font-size: 20px;
+	margin-bottom: 0px;
+	width: 100%;
+
+	border: solid yellow;
+ 
+	background-color: #043a52;
+	color:white;
+
+}
+
+.tr1{
+	text-align: center;
+ 
+	height: 220px;
+	
+ 
+}
+.tr2{
+	height: 80px;
+	text-align: center;
+}
+.td1{
+	width: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
